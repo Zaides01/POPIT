@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842054340459",
+    "project_id": "popit-7a78d",
+    "storage_bucket": "popit-7a78d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842054340459:android:155553a08e8ccea718462e",
+        "android_client_info": {
+          "package_name": "com.example.popit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842054340459-lt7h2s07e245c26efuup0fpn22meg2l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDZnY5EY5zhUqgnAuZ_5LZxPi2CIcfrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842054340459-lt7h2s07e245c26efuup0fpn22meg2l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

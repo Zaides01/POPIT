@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">POPIT</string>
+    <string name="signing">Авторизация успешна</string>
+</resources>
